@@ -2,7 +2,7 @@
 
 ### About
 ---
-this repo is used to test pr and conflicts.
-Use it wisely, have fun :;
+###### this repo is used to test pr and conflicts.
+###### Use it wisely, have fun :;
 ---
 
